@@ -6,22 +6,22 @@ I also used my fake database to give the user the possibility to like the movies
 I used Angular with SCSS, JWT Token, JSONServer, Angular Material, Angular Flex and Bootstrap.
 
 ## Login page
-<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/desktop-view.png">
+<img src="https://github.com/AlbertoDeMaria/FilmPlatform/blob/master/src/assets/screenshots/login.png">
 
 ## Sign up page
-<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
+<img src="https://github.com/AlbertoDeMaria/FilmPlatform/blob/master/src/assets/screenshots/register.png">
 
 ## Sign up page control
-<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
+<img src="https://github.com/AlbertoDeMaria/FilmPlatform/blob/master/src/assets/screenshots/controllo%20register.png">
 
 ## Homepage
-<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
+<img src="https://github.com/AlbertoDeMaria/FilmPlatform/blob/master/src/assets/screenshots/home.png">
 
 ## Film without like
-<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
+<img src="https://github.com/AlbertoDeMaria/FilmPlatform/blob/master/src/assets/screenshots/film%20senza%20like.png">
 
 ## Film with like
-<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
+<img src="https://github.com/AlbertoDeMaria/FilmPlatform/blob/master/src/assets/screenshots/film%20con%20like.png">
 
 ## Local storage
-<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
+<img src="https://github.com/AlbertoDeMaria/FilmPlatform/blob/master/src/assets/screenshots/localstorage.png">
