@@ -1,27 +1,27 @@
-# Film
+# Film platform
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+I developed this website with a working login system thanks to JWT and JSON server. The JWT token is saved in the local storage to allow auto-login if the site is closed by mistake. When the token expires, an auto-logout is performed.
+I also used my fake database to give the user the possibility to like the movies they prefer. According to the user who logs in, the favorites are dynamically retrieved.
 
-## Development server
+I used Angular with SCSS, JWT Token, JSONServer, Angular Material, Angular Flex and Bootstrap.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Login page
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/desktop-view.png">
 
-## Code scaffolding
+## Sign up page
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Sign up page control
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
 
-## Build
+## Homepage
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Film without like
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
 
-## Running unit tests
+## Film with like
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Local storage
+<img src="https://github.com/AlbertoDeMaria/AdviceGenerator/blob/master/dist/img/screenshots/mobile-view.png">
